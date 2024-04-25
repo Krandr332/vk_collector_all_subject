@@ -1,5 +1,3 @@
-#### Используемые таблицы
-- [Открытие месяца](https://docs.google.com/spreadsheets/d/1eM9elG7gj4_KRCpTAGS-dcqbVVjCP7geidP0vzGHAlg/edit#gid=1601388241)
 
 #### .env
 ```
